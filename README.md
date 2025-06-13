@@ -75,4 +75,6 @@ Remember, security should be your top priority when interacting with any darknet
 <a href="http://f3u6dh7frqi2i5gz7772evo2xxcoaf5xqqx5ckm7sh47samnnxwve3yd.onion"><img src="/files/notice.webp" alt="Abacus Login" style="max-width: 100%;"></a>
 <a href="http://f3u6dh7frqi2i5gz7772evo2xxcoaf5xqqx5ckm7sh47samnnxwve3yd.onion"><img src="/files/photo.webp" alt="Abacus Register" style="max-width: 100%;"></a>
 
-Update: Updated environment setup documentation
+
+
+Update: Link is now responsive and live
