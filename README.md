@@ -77,4 +77,6 @@ Remember, security should be your top priority when interacting with any darknet
 
 
 
-Update: Link is now responsive and live
+
+
+Update:  16 June
