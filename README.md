@@ -83,4 +83,6 @@ Remember, security should be your top priority when interacting with any darknet
 
 
 
-Update: Component URLs
+
+
+Update: Fixed broken link, now reachable
