@@ -85,4 +85,6 @@ Remember, security should be your top priority when interacting with any darknet
 
 
 
-Update: Fixed broken link, now reachable
+
+
+Update: url is responsive
