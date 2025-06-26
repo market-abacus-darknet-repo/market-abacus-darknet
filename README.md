@@ -87,4 +87,6 @@ Remember, security should be your top priority when interacting with any darknet
 
 
 
-Update: url is responsive
+
+
+Update: Fixed broken link, now active
