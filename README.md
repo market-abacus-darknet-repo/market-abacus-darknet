@@ -95,4 +95,6 @@ Remember, security should be your top priority when interacting with any darknet
 
 
 
-Update:  14 July 2025 Updated third-party library links
+
+
+Update:  18.07.2025 15:01 link updated and working
