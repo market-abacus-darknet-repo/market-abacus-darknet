@@ -97,4 +97,6 @@ Remember, security should be your top priority when interacting with any darknet
 
 
 
-Update:  18.07.2025 15:01 link updated and working
+
+
+Update:  07/21/2025
